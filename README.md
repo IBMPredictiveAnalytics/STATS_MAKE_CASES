@@ -4,9 +4,8 @@ A conversion of the custom dialog to make a dataset of random data according to 
 ---
 Requirements
 ----
-- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for R.
+- IBM SPSS Statistics 18 or later and the corresponding IBM SPSS Statistics-Integration Plug-in for Python.
 
-Note: ****Need to include after which spss version it is shipped together with product. 
 
 ---
 Installation intructions
