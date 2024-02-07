@@ -9,10 +9,9 @@ Description: This procedure creates a new dataset of random variables
  erators plus the triangular distribution.  It replaces the older cust
  om dialog box of the same name.
 Author: Jon K Peck
-Version: 1.0.0
+Version: 1.0.1
 Product-Version: 24
 Date: 6/26/2023
 Categories: distribution random
 Plugins: Python
 Python-Version: 3
-Translation-Catalogues: 
