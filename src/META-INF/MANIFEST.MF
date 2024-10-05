@@ -1,4 +1,5 @@
 Name: STATS MAKE CASES
+Display-Name: Data with Cases
 Dialog-Specs: makedata.cfe
 Command-Specs: STATS_MAKE_CASES.xml
 Code-Files: STATS_MAKE_CASES.py
